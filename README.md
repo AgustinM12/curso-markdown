@@ -2,6 +2,8 @@ Markdown: es un lenguaje de marcado, ej html y xml.
 
 detalle que el tab debe ser de 4 para que funcione
 
+[Lista completa de la sintaxis](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233 "Ver más")
+
 <!-- !comentario -->
 
 <!-- !Titulos -->
@@ -77,3 +79,14 @@ console.log(pepe)
 |pepe   |1      |
 |luis   |2      |
 |---------------|
+
+<!-- ! Imagenes con url -->
+![vsc logo url](https://techgage.com/wp-content/uploads/2015/04/Microsoft-Visual-Studio-Code-Icon.png)
+
+<!-- ! Imagenes locales -->
+![vsc logo local](Microsoft-Visual-Studio-Code-Icon.png "vsc logo")
+
+<!-- !GITHUB ONLY -->
+<!-- ! to do -->
+* [x] Tarea hecha
+* [ ] Tarea incompleta
